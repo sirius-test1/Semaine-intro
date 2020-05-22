@@ -44,7 +44,7 @@ Maintenant que tout est en place, faites un click droit sur le fichier index.htm
 ### Étape 6
 
 Alors dites nous en un peu plus sur vous,
-Pour ce faire décrivez vous en quelques lignes, remplacez par votre texte les 3 petits points entre les balises <p>...</p>
+Pour ce faire décrivez vous en quelques lignes, remplacez par votre texte les 3 petits points entre les balises `<p>...</p>`
 Une fois terminé, retournez dans votre navigateur et pressez la touche F5 de votre clavier afin de rafraîchir votre page. 
 
 **Tadaaaaam!**
@@ -52,8 +52,8 @@ Une fois terminé, retournez dans votre navigateur et pressez la touche F5 de vo
 Vous venez d'écrire votre premier contenu web ! 
 
 Jetons un oeil de plus prêt au code de ces feux fichiers.
-Le titre est contenu entre les balises <h1></h1>
-Essayez de modifier ces balises, remplacez la par celles-ci: <h2></h2>, retournez dans votre navigateur et pressez à nouveau F5.
+Le titre est contenu entre les balises `<h1></h1>`
+Essayez de modifier ces balises, remplacez la par celles-ci: `<h2></h2>`, retournez dans votre navigateur et pressez à nouveau F5.
 Alors?
 
 Continuons;
@@ -61,7 +61,7 @@ Continuons;
 ### Étape 7
 
 Ouvrez votre fichier style.css, n'y-a-t-il pas des éléments commun avec votre fichier HTML?
-Par exemple vous retrouvez ici ce que l'on appelle "le sélecteur" h1, il permet au fichier CSS d'appliquer du style à la balise <h1></h1> de votre fichier HTML.
+Par exemple vous retrouvez ici ce que l'on appelle "le sélecteur" h1, il permet au fichier CSS d'appliquer du style à la balise `<h1></h1>` de votre fichier HTML.
 
 Remplacez h1 par h2, retournez dans votre navigateur et pressez à nouveau F5.
 
