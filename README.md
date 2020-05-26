@@ -15,7 +15,7 @@ Nous espérons évidemment que chacun trouvera en lui le futur programmeur qui r
 
 TODO: À voir avec Vincent, David et Sergio
 Comment articuler la semaine? Quel type d'activité?
--> Pour l'introduction à la programmation: voir le fichier consignes.md ainsi que le lien suivant (TODO) pour un exemple concret du résultat final
+-> Pour l'introduction à la programmation: voir le fichier consignes.md ainsi que le lien suivant https://julie-sirius.github.io/Sirius-is-cool/ pour un exemple concret du résultat final
 J'ai volontairement construit cet exercice afin qu'il dure le plus longtemps possible cependant un candidat est considéré "Ready to learn" dés l'étape 5. La suite n'est que bonus
 et destinés à stimuler le défi et la motivation de chacun.
 
