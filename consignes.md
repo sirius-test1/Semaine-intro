@@ -158,9 +158,13 @@ Vous l'aurez également remarqué, dans l'espace qui vous est réservé, une pho
 
 Src ou Source vous permet d'insérer grâce au dossier "assets" les images que vous désirez voir figurer sur votre site.
 
-Je vous propose d'essayer, enregistrez dans le dossier assets un avatar, une photo de vous, ou tout simplement une photo qui vous plait, renomez cette photo "profile.jpg". 
+Je vous propose d'essayer, enregistrez dans le dossier assets un avatar, une photo de vous, ou tout simplement une photo qui vous plait, faites un click droit sur la photo, sélectionnez enregistrer sous, naviguez vers votre dossier assets et renommez cette photo "profile.jpg". 
 
-Pour renommer une photo enregistrée il vous suffit de click droit sur cette image et de sélectionner "renommer"
+![Imgur](https://i.imgur.com/yWwo1l7.png)
+
+Dorénavant votre dossier assets devrait ressembler à ceci:
+
+![Imgur](https://i.imgur.com/TSXBmlZ.png)
 
 ## Étape 10
 
@@ -170,10 +174,75 @@ Et voilà vous y êtes, vous venez d'insérer votre toute première image à vot
 
 ## Étape 11
 
-TODO: insérer le contenu de l'exercice
+Maintenant que nous avons terminé notre première page web, que diriez vous de la mettre en ligne afin de la rendre disponnible pour tout le monde?
+
+**1. Tout d'abord retournez sur Github via ce lien: http://github.com**
+
+**2. En haut à droite vous trouverez une icone avec votre avatar. Clickez dessus pour obtenir le menu déroulant, sélectionnez "your repositories" . Nous en avons un peu parlé au début de cette introduction, vous êtes sur le point de créer votre premier "repo" ou "dépôt" en français.**
+
+![Imgur](https://i.imgur.com/LW4748q.png)
+
+**3. Vous arrivez sur l'interface suivante, clickez sur le bouton "new"**
+
+![](https://i.imgur.com/HyNjxAY.png)
+
+**4. Sur l'interface suivante un champs est ouvert pour indiquer le nom que vous désirez donner à votre repository, nommez le comme le dossier de votre bureau "Sirius-is-cool", ensuite clickez sur "public" et décochez la case "Initizialise this repository with a README.md". Finissez par clicker sur create repository**
+
+![Imgur](https://i.imgur.com/uQHbFFQ.png)
+
+**5. Sur l'interface suivante, clickez sur le lien entouré d'un carré rouge "uploading existing files"**
+
+![Imgur](https://i.imgur.com/ZOiiUmh.png)
+
+**6. Vous allez découvrir l'interface suivante:**
+
+![Imgur](https://i.imgur.com/tTc7akW.png)
+
+**Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css ainsi que le dossier assets; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
+
+![Imgur](https://i.imgur.com/lPCBCmj.png)
+
+**Une fois uploadés, clickez sur "commit changes"**
+
+![Imgur](https://i.imgur.com/HnuOfq2.png)
+
+**7. Vous arrivez maintenant sur cette interface, il s'agit de votre premier repository, rempli avec les fichiers que vous avez créé tout au long de cette introduction:**
+
+![Imgur](https://i.imgur.com/CQV6f0i.png)
 
 
+**8. Clickez sur l'onglet "settings"**
 
+![Imgur](https://i.imgur.com/bq5xSOF.png)
 
+**9. Naviguez jusqu'au paragraphe "GHPAGE"**
+
+![](https://i.imgur.com/wj09zyI.png)
+
+**10. Clickez sur le menu déroulant "none" et sélectionnez "master branche" nous verrons par la suite à quoi cela correspond:**
+
+![](https://i.imgur.com/AHC2swq.png)
+
+**11. Scrollez en haut de la page et clickez sur l'onglet "code"**
+
+![](https://i.imgur.com/Udb3De3.png)
+
+**12. Vous pouvez constater que dorénavant il existe un onglet "1 environnement"**
+
+![](https://i.imgur.com/0zaUEaT.png)
+
+**13. Clickez sur cet onglet, vous allez obtenir l'interface suivante:"**
+
+![](https://i.imgur.com/1MxDLI6.png)
+
+**Clickez sur view deployement"**
+
+Bravo! Vous avez déployé votre première page web, elle est disponnible à l'adresse indiqué dans le champs URL de votre navigateur
+
+![Imgur](https://i.imgur.com/6S1esDc.png)
+
+> Nous voici à la fin de notre introduction, j'espère tous vous retrouver la semaine prochaine pour la suite de la formation, mais avant toute chose, félicitation! Vous avez déjà créé votre première page web, ce n'est pas à la portée de chacun, soyez fier de vous!
+
+**À très vite au Sirius Hub!**
 
 
