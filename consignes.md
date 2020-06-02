@@ -173,7 +173,7 @@ Maintenant que nous avons terminé notre première page web, que diriez vous de 
 
 **Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
 
-![Imgur](https://i.imgur.com/lPCBCmj.png)
+![Imgur](https://i.imgur.com/tzLFdEM.png)
 
 **Une fois uploadés, clickez sur "commit changes"**
 
