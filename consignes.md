@@ -49,13 +49,11 @@ Les mots d'ordre GitHub sont donc la collaboration et le versionning !
 
 Mais revenons à nos moutons; 
 
-Ouvrez dans un nouvel onglet (en maintenant CTRL + click droit) les fichiers index.html, style.css ainsi que le dossier assets de ce repository
-
-![Les 4 onglets ouverts](https://i.imgur.com/UwPyx4C.png)
+Ouvrez dans un nouvel onglet (en maintenant CTRL + click droit) les fichiers index.html, style.css, profile_pic.png, sirius-logo.png
 
 ## Étape 4
 
-Copiez collez le contenu de ces fichiers au sein de ceux que vous avez vous même créé sur votre ordinateur. Veillez bien à ne pas vous tromper, le contenu d'index.html doit être copier dans votre version d'index.html et il en va de même pour le fichier style.css.
+Copiez collez le contenu des fichier index.html et style.css au sein de ceux que vous avez vous même créé sur votre ordinateur. Veillez bien à ne pas vous tromper, le contenu d'index.html doit être copier dans votre version d'index.html et il en va de même pour le fichier style.css.
 
 1. **Dans l'onglet "index.html" : Sélectionnez tout le contenu du fichier et faites un click droit sur votre souris: sélectionnez "coller"**:
 
@@ -77,7 +75,7 @@ Copiez collez le contenu de ces fichiers au sein de ceux que vous avez vous mêm
 
 ![Imgur](https://i.imgur.com/JT7Ppqd.png)
 
-**Ces étapes sont indispensables pour le bon fonctionnement de la suite de l'exercice, n'hésitez pas à y revenir si vous rencontrez un problème par la suie**
+**Ces étapes sont indispensables pour le bon fonctionnement de la suite de l'exercice, n'hésitez pas à y revenir si vous rencontrez un problème par la suite**
 
 ## Étape 5
 
