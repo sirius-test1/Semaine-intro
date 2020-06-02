@@ -92,10 +92,6 @@ Copiez collez le contenu de ces fichiers au sein de ceux que vous avez vous mêm
 ![Imgur](https://i.imgur.com/o1FwM3k.png)
 
 
-Ensuite: dans le dossier assets du repository, télécharger les deux images présentes.
-
-Ouvrez le dossier "téléchargement" sélectionnez les deux images et copiez - collez les au sein de votre propre dossier assets.
-
 **Ces étapes sont indispensables pour le bon fonctionnement de la suite de l'exercice, n'hésitez pas à y revenir si vous rencontrez un problème par la suie**
 
 ## Étape 5
