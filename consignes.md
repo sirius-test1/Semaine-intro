@@ -13,13 +13,7 @@ Pour commencer je vais vous demander de créer un compte à votre nom sur Github
 ### **2. Nommez ce dossier "Sirius-is-cool"**
 
 
-### **3. Ouvrez le dossier, à l'intérieur créez un nouveau dossier, nommez le "assets", sans majuscule! C'est très important**
-
-
-
-### **4. Dans votre dossier "Sirius-is-cool" faites un click droit et sélectionnez "Ouvrir avec Code"**
-
-![Clickez sur Ouvrir avec Code](https://i.imgur.com/3UQHTjK.png)
+### **3. Dans votre bureau, cherchez le raccourcis Visual Studio Code, ouvrez le en faisant un double click gauche**
 
 ### **5. La fenêtre de votre éditeur de texte va s'ouvrir, vous devriez trouver une interface telle que celle-ci:**
 
@@ -30,7 +24,7 @@ Pour commencer je vais vous demander de créer un compte à votre nom sur Github
 
 ## Étape 2 
 
-Dans votre éditeur de texte, vous remarquerez en haut à gauche, en passant le curseur de votre souris sur le nom de votre dossier, vous découvrirez une icone "ajoutez un fichier" clickez dessus:
+Dans votre éditeur de texte, vous remarquerez en haut à droite, en passant le curseur de votre souris sur le nom de votre dossier, vous découvrirez une icone "ajoutez un fichier" clickez dessus:
 
 ![Créez un fichier](https://i.imgur.com/ZZox1et.png)
 
@@ -65,32 +59,25 @@ Ouvrez dans un nouvel onglet (en maintenant CTRL + click droit) les fichiers ind
 
 Copiez collez le contenu de ces fichiers au sein de ceux que vous avez vous même créé sur votre ordinateur. Veillez bien à ne pas vous tromper, le contenu d'index.html doit être copier dans votre version d'index.html et il en va de même pour le fichier style.css.
 
-1. **Dans l'onglet "index.html" : Sélectionnez tout le contenu du fichier et faites un click droit sur votre souris: sélectionnez "copier"**:
+1. **Dans l'onglet "index.html" : Sélectionnez tout le contenu du fichier et faites un click droit sur votre souris: sélectionnez "coller"**:
 
 ![Clickez droit et sélectionnez copier](https://i.imgur.com/JfbRojQ.png)
 
-2. **Dans votre éditeur de texte, clickez sur le fichier "index.html". Faites un click droit sur votre souris: sélectionnez "copier"**:
+2. **Dans votre éditeur de texte, clickez sur le fichier "index.html". Faites un click droit sur votre souris: sélectionnez "coller"**:
 
 ![Sélectionnez le fichier index.hmtl. Clickez droit et sélectionnez copier](https://i.imgur.com/xfT8nCS.png)
 
 3. **Répétez l'opération pour le fichier "style.css", procédez exactement de la même manière**
 
-4. **Dans l'onglet assets clickez sur les deux fichier nommés profile_pic.png et sirius-logo.jpg faites un click droit, sélectionnez "enregistrer l'image sous" et choississez "Bureau/Sirius-is-cool/assets" sur chacune des images**
+4. **Dans l'onglet assets clickez sur les deux fichier nommés profile_pic.png et sirius-logo.jpg faites un click droit, sélectionnez "enregistrer l'image sous" et choississez "Bureau/Sirius-is-cool" sur chacune des images**
 
 ![Imgur](https://i.imgur.com/AlLIz6Y.png)
 
-**Attention à bien enregistrer dans le dossier assets et pas dans le dossier "téléchargement" :**
+**Attention à bien enregistrer dans le dossier Sirius-is-cool et pas dans le dossier "téléchargement" :**
 
 ![Imgur](https://i.imgur.com/iIPq6P8.png)
 
-![Imgur](https://i.imgur.com/Mg4iP6j.png)
-
 ![Imgur](https://i.imgur.com/JT7Ppqd.png)
-
-5. **Voici à quoi ressemble maintenant votre dossier assets dans votre éditeur de texte**
-
-![Imgur](https://i.imgur.com/o1FwM3k.png)
-
 
 **Ces étapes sont indispensables pour le bon fonctionnement de la suite de l'exercice, n'hésitez pas à y revenir si vous rencontrez un problème par la suie**
 
@@ -154,7 +141,7 @@ Dorénavant votre dossier assets devrait ressembler à ceci:
 
 ## Étape 10
 
-Remplacez la source de la photo de profile par défaut `src="assets/profile_pic.png` par le nom de la photo que vous aurez enregistré au préalable et renommé profile.jpg ->  `src="assets/profile.jpg`
+Remplacez la source de la photo de profile par défaut `src="profile_pic.png` par le nom de la photo que vous aurez enregistré au préalable et renommé profile.jpg ->  `src="profile.jpg`
 
 Et voilà vous y êtes, vous venez d'insérer votre toute première image à votre tout premier contenu web, félicitations!
 
@@ -184,7 +171,7 @@ Maintenant que nous avons terminé notre première page web, que diriez vous de 
 
 ![Imgur](https://i.imgur.com/tTc7akW.png)
 
-**Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css ainsi que le dossier assets; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
+**Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
 
 ![Imgur](https://i.imgur.com/lPCBCmj.png)
 
