@@ -69,7 +69,7 @@ Copiez collez le contenu de ces fichiers au sein de ceux que vous avez vous mêm
 
 3. **Répétez l'opération pour le fichier "style.css", procédez exactement de la même manière**
 
-4. **Dans l'onglet assets clickez sur les deux fichier nommés profile_pic.png et sirius-logo.jpg faites un click droit, sélectionnez "enregistrer l'image sous" et choississez "Bureau/Sirius-is-cool" sur chacune des images**
+4. **Dans l'onglet assets clickez sur les deux fichier nommés profile_pic.png et sirius-logo.png faites un click droit, sélectionnez "enregistrer l'image sous" et choississez "Bureau/Sirius-is-cool" sur chacune des images**
 
 ![Imgur](https://i.imgur.com/AlLIz6Y.png)
 
@@ -173,16 +173,13 @@ Maintenant que nous avons terminé notre première page web, que diriez vous de 
 
 **Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
 
-![Imgur](https://i.imgur.com/tzLFdEM.png)
+![Imgur](https://i.imgur.com/rfx1dFq.png)
 
 **Une fois uploadés, clickez sur "commit changes"**
 
 ![Imgur](https://i.imgur.com/HnuOfq2.png)
 
-**7. Vous arrivez maintenant sur cette interface, il s'agit de votre premier repository, rempli avec les fichiers que vous avez créé tout au long de cette introduction:**
-
-![Imgur](https://i.imgur.com/CQV6f0i.png)
-
+**7. Vous arrivez maintenant sur votre premier repository, rempli avec les fichiers que vous avez créé tout au long de cette introduction:**
 
 **8. Clickez sur l'onglet "settings"**
 
