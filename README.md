@@ -11,12 +11,5 @@ Toute l'équipe est plus qu'heureuse de vous acceuillir dans nos locaux pour cet
 Semaine au cours de laquelle nous vous donnerons toutes les armes pour vous construire un avis éclairé sur votre avenir professionnel.
 Nous espérons évidemment que chacun trouvera en lui le futur programmeur qui rejoindra la communauté du Sirius Hub pour les 7 prochains mois.
 
-## Déroulement
-
-TODO: À voir avec Vincent, David et Sergio
-Comment articuler la semaine? Quel type d'activité?
--> Pour l'introduction à la programmation: voir le fichier consignes.md ainsi que le lien suivant https://julie-sirius.github.io/Sirius-is-cool/ pour un exemple concret du résultat final
-J'ai volontairement construit cet exercice afin qu'il dure le plus longtemps possible cependant un candidat est considéré "Ready to learn" dés l'étape 5. La suite n'est que bonus
-et destinés à stimuler le défi et la motivation de chacun.
 
 ## Sirius school 2020 c'est parti, et c'est grâce à vous ! 
