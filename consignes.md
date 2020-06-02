@@ -6,29 +6,22 @@ Vous ne pensiez quand même pas échapper à mettre un peu la main à la pâte?
 
 Pour commencer je vais vous demander de créer un compte à votre nom sur Github grâce à l'adresse @possibles.org que nous allons vous fournir.
 
-### **1. Clickez sur ce lien: http://github.com**
+
+### **1. Retournez maintenant sur votre bureau, créez un nouveau dossier:**
 
 
-### **2. Inscrivez vous via le formulaire:**
+### **2. Nommez ce dossier "Sirius-is-cool"**
 
 
-### **3. Une fois inscrit clickez sur ce lien: https://github.com/sirius-school/Semaine-intro et gardez la page ouverte dans votre navigateur**
-
-### **4. Retournez maintenant sur votre bureau, créez un nouveau dossier:**
-
-
-### **5. Nommez ce dossier "Sirius-is-cool"**
-
-
-### **6. Ouvrez le dossier, à l'intérieur créez un nouveau dossier, nommez le "assets", sans majuscule! C'est très important**
+### **3. Ouvrez le dossier, à l'intérieur créez un nouveau dossier, nommez le "assets", sans majuscule! C'est très important**
 
 
 
-### **7. Dans votre dossier "Sirius-is-cool" faites un click droit et sélectionnez "Ouvrir avec Code"**
+### **4. Dans votre dossier "Sirius-is-cool" faites un click droit et sélectionnez "Ouvrir avec Code"**
 
 ![Clickez sur Ouvrir avec Code](https://i.imgur.com/3UQHTjK.png)
 
-### **8. La fenêtre de votre éditeur de texte va s'ouvrir, vous devriez trouver une interface telle que celle-ci:**
+### **5. La fenêtre de votre éditeur de texte va s'ouvrir, vous devriez trouver une interface telle que celle-ci:**
 
 ![Interface VsCode](https://i.imgur.com/NWqu1sk.png)
 
