@@ -167,7 +167,7 @@ Maintenant que nous avons terminé notre première page web, que diriez vous de 
 
 ![Imgur](https://i.imgur.com/tTc7akW.png)
 
-**Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez les fichiers index.html, style.css; n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
+**Clickez sur "choose your files, naviguez jusqu'à votre dossier Sirius-is-cool et sélectionnez l'ensemble des fichiers de votre dossier (index.html, style.css, profile.jpg, profile_pic.png, sirius-logo.png); n'hésitez pas à demander de l'aide si vous rencontrez des difficultés**
 
 ![Imgur](https://i.imgur.com/rfx1dFq.png)
 
