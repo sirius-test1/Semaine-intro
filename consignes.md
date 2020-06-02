@@ -55,17 +55,16 @@ Ouvrez dans un nouvel onglet (en maintenant CTRL + click droit) les fichiers ind
 
 Copiez collez le contenu des fichier index.html et style.css au sein de ceux que vous avez vous même créé sur votre ordinateur. Veillez bien à ne pas vous tromper, le contenu d'index.html doit être copier dans votre version d'index.html et il en va de même pour le fichier style.css.
 
-1. **Dans l'onglet "index.html" : Sélectionnez tout le contenu du fichier et faites un click droit sur votre souris: sélectionnez "coller"**:
+1. **Dans l'onglet "index.html" : Sélectionnez tout le contenu du fichier et faites un click droit sur votre souris: sélectionnez "coller" puis enregistrez votre fichier clickant sur file "save all"**:
 
 ![Clickez droit et sélectionnez copier](https://i.imgur.com/JfbRojQ.png)
 
-2. **Dans votre éditeur de texte, clickez sur le fichier "index.html". Faites un click droit sur votre souris: sélectionnez "coller"**:
+2. **Dans votre éditeur de texte, clickez sur le fichier "index.html". Faites un click droit sur votre souris: sélectionnez "coller" puis enregistrez votre fichier clickant sur file "save all"**:
 
 ![Sélectionnez le fichier index.hmtl. Clickez droit et sélectionnez copier](https://i.imgur.com/xfT8nCS.png)
 
 3. **Répétez l'opération pour le fichier "style.css", procédez exactement de la même manière**
 
-4. **Dans l'onglet assets clickez sur les deux fichier nommés profile_pic.png et sirius-logo.png faites un click droit, sélectionnez "enregistrer l'image sous" et choississez "Bureau/Sirius-is-cool" sur chacune des images**
 
 ![Imgur](https://i.imgur.com/AlLIz6Y.png)
 
@@ -125,13 +124,13 @@ Retournez dans votre navigateur, pressez F5, ça y est vous avez apporté votre 
 
 Vous l'aurez également remarqué, dans l'espace qui vous est réservé, une photo de profile par défaut a été insérée via la balise `<img>` au sein de cette balise vous pouvez y lire l'attribut "src".
 
-Src ou Source vous permet d'insérer grâce au dossier "assets" les images que vous désirez voir figurer sur votre site.
+Src ou Source vous permet d'insérer grâce à la racine du dossier sirius-is-school, les images que vous désirez voir figurer sur votre site.
 
-Je vous propose d'essayer, enregistrez dans le dossier assets un avatar, une photo de vous, ou tout simplement une photo qui vous plait, faites un click droit sur la photo, sélectionnez enregistrer sous, naviguez vers votre dossier assets et renommez cette photo "profile.jpg". 
+Je vous propose d'essayer, enregistrez dans le dossier Sirius-is-cool un avatar, une photo de vous, ou tout simplement une photo qui vous plait, faites un click droit sur la photo, sélectionnez enregistrer sous, naviguez vers votre dossier Sirius-is-cool et renommez cette photo "profile.jpg". 
 
 ![Imgur](https://i.imgur.com/yWwo1l7.png)
 
-Dorénavant votre dossier assets devrait ressembler à ceci:
+Dorénavant votre dossier Sirius-is-cool devrait ressembler à ceci:
 
 ![Imgur](https://i.imgur.com/TSXBmlZ.png)
 
