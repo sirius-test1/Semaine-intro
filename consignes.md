@@ -8,23 +8,20 @@ Pour commencer je vais vous demander de créer un compte à votre nom sur Github
 
 ### **1. Clickez sur ce lien: http://github.com**
 
+
 ### **2. Inscrivez vous via le formulaire:**
 
-![Imgur](https://i.imgur.com/Y9WQ4iP.png)
 
 ### **3. Une fois inscrit clickez sur ce lien: https://github.com/sirius-school/Semaine-intro et gardez la page ouverte dans votre navigateur**
 
 ### **4. Retournez maintenant sur votre bureau, créez un nouveau dossier:**
 
-![Imgur](https://i.imgur.com/CmVyffu.png)
 
 ### **5. Nommez ce dossier "Sirius-is-cool"**
 
-![Imgur](https://i.imgur.com/Udc48Xf.png)
 
 ### **6. Ouvrez le dossier, à l'intérieur créez un nouveau dossier, nommez le "assets", sans majuscule! C'est très important**
 
-![Créez un nouveau dossier](https://i.imgur.com/znqwYq7.png)
 
 
 ### **7. Dans votre dossier "Sirius-is-cool" faites un click droit et sélectionnez "Ouvrir avec Code"**
