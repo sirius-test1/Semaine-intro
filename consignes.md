@@ -4,8 +4,6 @@ Vous ne pensiez quand même pas échapper à mettre un peu la main à la pâte?
 
 ## Étape 1
 
-Pour commencer je vais vous demander de créer un compte à votre nom sur Github grâce à l'adresse @possibles.org que nous allons vous fournir.
-
 
 ### **1. Retournez maintenant sur votre bureau, créez un nouveau dossier:**
 
