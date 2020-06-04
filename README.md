@@ -1,7 +1,7 @@
 # Bienvenue chez Sirius!
 
 Salut à tous et bienvenue pour cette semaine d'introduction.
-Dans le cadre de nos activités nous allons consacrer une matinée de mise en jambe au merveilleux monde du digital.
+Dans le cadre de nos activités nous allons consacrer une matinée de mise en jambe au merveilleux monde du digital...
 
 ## Avant toute chose
 
